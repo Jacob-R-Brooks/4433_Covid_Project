@@ -8,3 +8,4 @@ The first graph will generate a line plot for each state selected with X = time 
 The second graph will show the US and indicate the weekly or cumulative deaths by week. Users can adjust the date viewed.
 
 Please note that the second graph can take a long time to load completely
+Adjust line 16 to your directory
